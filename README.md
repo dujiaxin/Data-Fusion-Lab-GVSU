@@ -16,7 +16,7 @@ Jiaxin Du
 
 ![Caleb](photos/Caleb.jpeg)
 
-Caleb
+Caleb Cheruiyot
 
 ### Undergraduate Assistant
 
