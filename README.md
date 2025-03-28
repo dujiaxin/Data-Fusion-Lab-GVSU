@@ -13,7 +13,9 @@ A website to host our data fusion project at GVSU.
 Jiaxin Du
 
 ### Graduate Assistant
+
 ![Caleb](photos/Caleb.jpeg)
+
 Caleb
 
 ### Undergraduate Assistant
